@@ -1,2 +1,4 @@
-# happened
-Historical Artistic and Political Pipeline for Event-based Network Data
+# Happened
+*Historical Artistic and Political Pipeline for Event-based Network Data*
+
+Tools needed to digitize cities’ historical development could reshape how we plan their future. Digital tools and methods provide unforseen potential for understanding the history of cities, their connection to the world, and the evolution of their societies. Recent research provides solid ground for modeling politics, art and trade of the past. **Happened** proposes exploiting art and architecture archives to rethink how we plan cities today. In collaboration with the [Max-Planck Institute for the History of Art and Architecture – Bibliotheca Hertziana](https://www.biblhertz.it/en/home) and the [Max-Planck Center for Digital Visual Studies](http://dvs.uzh.ch), this research project focuses on the historical development of Rome and to shape the future of the Eternal City. Using digitial tools and methods common to *digital humanities* and *computational social science*, **Happened** opens new way of designing more sustainable cities. 
